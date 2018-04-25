@@ -51,8 +51,13 @@
 
     <!-- Page Content -->
     <div class="container">
-asdasd
+
+   
         <img src="giphy.gif" alt=""/>
+          
+              <a href="hola/chao.jsp" class="btn btn-success">franco</a>
+          
+
     </div>
     <!-- /.container -->
 
