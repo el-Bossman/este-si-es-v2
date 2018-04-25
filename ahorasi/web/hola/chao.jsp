@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Hola mundo clasico</h1>
+        <img src="negro.gif" alt=""/>
     </body>
 </html>
